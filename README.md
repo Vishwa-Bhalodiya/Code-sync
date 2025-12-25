@@ -1,8 +1,6 @@
 # Code-Sync: Real-Time Collaborative Code Editor
 
-Code-Sync is a web-based, real-time collaborative code editor that allows multiple users to code, chat, and draw together in a shared workspace. It's built with React, Node.js, and WebSockets, providing a seamless and interactive experience for remote pair programming, interviews, and teaching.
-
-![Code-Sync Demo](https://user-images.githubusercontent.com/88628572/259502973-2415511a-133a-4137-9769-026829775317.png)
+Code-Sync is a web-based, real-time collaborative code editor that allows multiple users to code, chat, and draw together in a shared workspace. It's built with React, Node.js, and WebSockets, providing a seamless and interactive experience for remote pair programming, interviews, and teaching..
 
 ## ✨ Features
 
